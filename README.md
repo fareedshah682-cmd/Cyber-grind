@@ -1,14 +1,12 @@
-🚀 Project Showcase: Cyber Grind (C++ Text-Based RPG)
+# Cyber Grind
 
-I’m excited to share a project I've been working on—Cyber Grind, a fully interactive, text-based Role-Playing Game built entirely in C++. 
+A fully interactive, text-based Role-Playing Game (RPG) built entirely in C++. This project utilizes core programming fundamentals and software design patterns within a console environment.
 
-This project allowed me to dive deep into core programming fundamentals and software design. Key features include:
-🔹 Dynamic combat loops and state management within a console environment
-🔹 Structured player progression mechanics
-🔹 Robust control structures and strict data validation to ensure a seamless user experience
+## Features
+* **Dynamic Combat Loops:** Interactive turn-based mechanics and real-time state management.
+* **Player Progression:** Structured system tracking character advancement and stats.
+* **Robust Data Validation:** Strict control structures handling user input to ensure a seamless console experience.
 
-Building this was a fantastic way to sharpen my problem-solving skills and clean up my object-oriented logic in a terminal-based setup. 
-
-Check out the repository here: [PASTE YOUR GITHUB LINK HERE]
-
-#Cpp #Programming #SoftwareDevelopment #ComputerEngineering #Coding #GameDev #GitHub
+## Technical Details
+* **Language:** C++
+* **Environment:** Terminal / Console Application
